@@ -7,7 +7,7 @@ import java.util.stream.Stream;
 
 /*
  * 날짜 : 2020/11/23
- * 이름 : 김철학
+ * 이름 : 김하린
  * 내용 : 컬렉션 스트림 실습하기 교재 p420
  * 
  * 스트림(Stream)
